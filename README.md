@@ -1,1 +1,1 @@
-# near-whatsdapp-web4
+Web4 contract for near-whatsdapp
